@@ -1,0 +1,8 @@
+{
+    "status": %%--scenarioStatus--%%,
+    "id": %%--id--%%,
+    "title": %%--name--%%,
+    "time": "%%--time--%%s",
+    "steps": [%%--steps--%%],
+    "failure": %%--failure--%%
+},

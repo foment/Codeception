@@ -1,0 +1,5 @@
+{
+    "name": "%%--name--%%",
+    "status": %%--status--%%,
+    "time": "%%--time--%%s"
+}

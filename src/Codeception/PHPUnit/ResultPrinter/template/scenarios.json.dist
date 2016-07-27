@@ -1,0 +1,10 @@
+{
+    "scenario-header": %%--header--%%,
+    "suites": [%%--suite--%%],
+    "scenarios-summary": {
+        "successful": %%--successfulScenarios--%%,
+        "failed": %%--failedScenarios--%%,
+        "skipped": %%--skippedScenarios--%%,
+        "incomplete": %%--incompleteScenarios--%%
+    }
+}
