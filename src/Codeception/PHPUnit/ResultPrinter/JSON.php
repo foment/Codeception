@@ -1,5 +1,6 @@
 <?php
-namespace Extensions\ReportFormatter;
+
+namespace Codeception\PHPUnit\ResultPrinter;
 
 use Codeception\PHPUnit\ResultPrinter as CodeceptionResultPrinter;
 use Codeception\Step;
